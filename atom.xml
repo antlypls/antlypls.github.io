@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Blog]]></title>
-  <link href="http://antlypls.github.io/atom.xml" rel="self"/>
-  <link href="http://antlypls.github.io/"/>
-  <updated>2015-05-26T01:58:58+04:00</updated>
-  <id>http://antlypls.github.io/</id>
+  <link href="http://blog.plastinin.me/atom.xml" rel="self"/>
+  <link href="http://blog.plastinin.me/"/>
+  <updated>2015-05-26T11:26:45+04:00</updated>
+  <id>http://blog.plastinin.me/</id>
   <author>
-    <name><![CDATA[Anatoliy plastinin]]></name>
+    <name><![CDATA[Anatoliy Plastinin]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First post]]></title>
-    <link href="http://antlypls.github.io/blog/2015/05/26/first-post/"/>
+    <link href="http://blog.plastinin.me/blog/2015/05/26/first-post/"/>
     <updated>2015-05-26T01:20:45+04:00</updated>
-    <id>http://antlypls.github.io/blog/2015/05/26/first-post</id>
+    <id>http://blog.plastinin.me/blog/2015/05/26/first-post</id>
     <content type="html"><![CDATA[<p>This is my First post</p>
 ]]></content>
   </entry>
