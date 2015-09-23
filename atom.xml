@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Blog]]></title>
+  <title><![CDATA[Thoughts Resampled]]></title>
   <link href="http://blog.plastinin.me/atom.xml" rel="self"/>
   <link href="http://blog.plastinin.me/"/>
-  <updated>2015-06-01T22:56:20+04:00</updated>
+  <updated>2015-09-24T00:38:54+02:00</updated>
   <id>http://blog.plastinin.me/</id>
   <author>
     <name><![CDATA[Anatoliy Plastinin]]></name>
@@ -14,17 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First post]]></title>
-    <link href="http://blog.plastinin.me/blog/2015/05/26/first-post/"/>
-    <updated>2015-05-26T01:20:45+04:00</updated>
-    <id>http://blog.plastinin.me/blog/2015/05/26/first-post</id>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://blog.plastinin.me/blog/2015/05/25/first-post/"/>
+    <updated>2015-05-25T23:20:45+02:00</updated>
+    <id>http://blog.plastinin.me/blog/2015/05/25/first-post</id>
     <content type="html"><![CDATA[<p>This is my First post</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 </pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">def</span> <span class="nf">sum</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">)</span>
-</span><span class='line'>  <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+</span><span class='line'>  <span class="n">a</span> <span class="o">+</span> <span class="n">b</span> <span class="o">+</span> <span class="mi">1</span>
 </span><span class='line'><span class="k">end</span>
 </span></code></pre></td></tr></table></div></figure>
 
